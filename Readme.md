@@ -78,6 +78,6 @@ The EDA will focus on students' social media usage and mental health, study habi
 
 ##  Project By
 Alfiya CP
-Course:
-Data Analytics
+
+Course:Data Analytics
 

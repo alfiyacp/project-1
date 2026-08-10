@@ -76,7 +76,8 @@ The analysis will consist of
 ## Conclusion
 The EDA will focus on students' social media usage and mental health, study habits, sleep, and physical activity. The analysis will use both univariate and bivariate analysis to uncover patterns and relationships in the data. 
 
-##  Author
+##  Project By
 Alfiya CP
-Data Analytics Project
+Course:
+Data Analytics
 
